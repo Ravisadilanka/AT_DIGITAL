@@ -20,7 +20,7 @@ const Footer = () => {
             <p>ReactJS</p>
             <p>Gatsby</p>
             <p>NextJS</p>
-            <p>NodeJS</p>
+            <p>NodeJSs</p>
           </div>
           <div className="flex flex-col gap-3">
             <h1 className="font-semibold text-21px">Our Services</h1>
